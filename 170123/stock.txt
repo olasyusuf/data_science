@@ -1,0 +1,11 @@
+item_id | Name              | Brand             | Size             |Price         |Qty
+100     | TV                | Sony              | 32in             | 250          | 100
+101     | Laptop            | HP                | 14in             | 120          | 100
+102     | DVD-Player        | LG                | NA               |  80          | 100
+103     | A/C               | LG                | 2HP              | 120          | 100
+104     | A/C               | Panasonic         | 2HP              | 180          | 100
+105     | Laptop            | Macbook           | 14in             | 450          | 100
+106     | Phone             | Apple             | 13pro-Max        | 650          | 100
+107     | Washing-Machine   | Samsung           | 7kg              | 120          | 100
+108     | Refrigerator      | Samsung           | 130ltr           | 105          | 100
+109     | Gas-Cooker        | LG                | Medium           |  85          | 100
